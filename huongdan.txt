@@ -1,0 +1,7 @@
+up code len host
+up sql
+config sql  /application/config/database.php
+admi
+
+admin@laoviets.com
+phamvanha@95
